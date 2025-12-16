@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOOD PRAVEEN KUMAR</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<p>Personal Details.</p>
 
 - 📫 How to reach me **moodpraveen1213@gmail.com**
 
